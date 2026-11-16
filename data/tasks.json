@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tg-api-101",
+    "title": "RESTful Endpoint Resource Modeling",
+    "category": "Backend",
+    "priority": "Urgent",
+    "dueDate": "2026-11-20",
+    "estimatedHours": 4,
+    "description": "Establish standard URL semantics for TaskGravity collection and item paths.",
+    "status": "completed",
+    "createdAt": "2026-11-15T09:00:00.000Z",
+    "updatedAt": "2026-11-15T12:00:00.000Z"
+  },
+  {
+    "id": "tg-api-102",
+    "title": "Postman Test Suite Automation",
+    "category": "Testing",
+    "priority": "High",
+    "dueDate": "2026-11-22",
+    "estimatedHours": 6,
+    "description": "Write automated status code assertions and JSON schema validations.",
+    "status": "in-progress",
+    "createdAt": "2026-11-15T10:30:00.000Z",
+    "updatedAt": "2026-11-15T10:30:00.000Z"
+  },
+  {
+    "id": "tg-api-103",
+    "title": "CRUD Controller Data Access Layer",
+    "category": "Database",
+    "priority": "Medium",
+    "dueDate": "2026-11-25",
+    "estimatedHours": 3,
+    "description": "Encapsulate file-system database read/write locks and asynchronous transactions.",
+    "status": "pending",
+    "createdAt": "2026-11-16T08:00:00.000Z",
+    "updatedAt": "2026-11-16T08:00:00.000Z"
+  }
+]
